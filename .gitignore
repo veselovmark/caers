@@ -1,2 +1,5 @@
 # ignore data files
 *.csv
+
+# ignore directories
+.python-version
